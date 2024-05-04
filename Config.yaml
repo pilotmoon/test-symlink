@@ -1,4 +1,5 @@
 name: Test Symlink
 icon: preserve-color file:frog.svg
 identifier: com.pilotmoon.test-symlink
+description: Test repo for directory backend symlink handling
 action: {}
