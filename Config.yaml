@@ -1,0 +1,3 @@
+name: Test Symlink
+icon: preserve-color file:frog.svg
+action: {}
