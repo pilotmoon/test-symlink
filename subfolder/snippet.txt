@@ -1,4 +1,4 @@
-#popclip 1
+#popclip 12
 name: snippet in subfolder test
 description: blah
 identifier: com.pilotmoon.test-snippet-subfolder
